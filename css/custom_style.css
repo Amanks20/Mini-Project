@@ -1,0 +1,21 @@
+.navbar.navbar-inverse.navbar-fixed-bottom{
+     color: black;
+}
+.blog-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+
+.modal-dialog{
+    width: 360px;
+   background: coral;
+}
+.shift{
+  float:left;
+}
+.well{
+    background: rgb(255,255,255);
+}
